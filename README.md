@@ -6,7 +6,7 @@ Change NIC IP Address on Windows 10.
 # What is a NIC?
 A Network Interface Card (NIC) is a critical hardware component that enables a device to connect to a network and exchange data. NICs can either be integrated into the motherboard or installed as separate expansion cards, offering connectivity through wired or wireless means.
 
-# Why Should You Change the NIC IP Address in Windows 10?
+# Why Should You Change the [NIC IP Address](https://www.macroproxy.com/blog/change-nic-ip-address-on-windows-10) in Windows 10?
 Modifying the IP address assigned to your NIC can be necessary in several situations, such as:
 
 ## Assigning a Static IP Address
@@ -149,10 +149,12 @@ Set-DnsClientServerAddress -InterfaceAlias "Ethernet" -ServerAddresses 8.8.8.8,8
 ```
 
 # Need Reliable Proxy IPs?
-If you’re looking to manage IPs with ease or access a wide range of addresses, consider using MacroProxy:
+If you’re looking to manage IPs with ease or access a wide range of addresses, consider using **_[MacroProxy](https://www.macroproxy.com/)_**:
 
 - Large IP Pool: Gain access to IPs from diverse locations worldwide.
 - Fast and Reliable: Our servers ensure seamless and stable connections.
 - 24/7 Support: Get expert assistance whenever you need it.
 
 With these methods, you can easily modify your NIC IP address in Windows 10 to meet your specific networking needs.
+
+Learn more: https://www.macroproxy.com/blog/change-nic-ip-address-on-windows-10
